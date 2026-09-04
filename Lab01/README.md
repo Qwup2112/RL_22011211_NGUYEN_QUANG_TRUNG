@@ -1,10 +1,8 @@
 # Bài thực hành số 1 — Làm quen với Gymnasium
 
-> **Còn thiếu:** điền tên lớp vào dòng `Lớp:` bên dưới.
-
 Họ tên: Nguyen Quang Trung
 MSSV: 22011211
-Lớp: `<Lớp>`  <!-- TODO: điền lớp -->
+Lớp: K16_AI&RB
 GitHub username: Qwup2112
 Repository URL: <https://github.com/Qwup2112/RL_-22011211-_-NGUYEN_QUANG_TRUNG->
 

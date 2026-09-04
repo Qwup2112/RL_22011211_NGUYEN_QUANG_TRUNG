@@ -2,7 +2,7 @@
 
 Họ tên: Nguyen Quang Trung
 MSSV: 22011211
-Lớp: `<Lớp>`  <!-- TODO: điền lớp -->
+Lớp: K16_AI&RB
 GitHub username: Qwup2112
 
 Repository này chứa các bài thực hành của học phần **Học tăng cường —
