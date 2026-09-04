@@ -1,14 +1,21 @@
 # Bài thực hành số 1 — Làm quen với Gymnasium
 
 Họ tên: Nguyen Quang Trung
+
 MSSV: 22011211
+
 Lớp: K16_AI&RB
+
 GitHub username: Qwup2112
+
 Repository URL: <https://github.com/Qwup2112/RL_-22011211-_-NGUYEN_QUANG_TRUNG->
 
 Python version: 3.14.4
+
 Gymnasium version: 1.3.0
+
 NumPy version: 2.5.2
+
 Matplotlib version: 3.11.1
 
 Môi trường sử dụng: `CartPole-v1`, `FrozenLake-v1`, `MountainCar-v0`.
