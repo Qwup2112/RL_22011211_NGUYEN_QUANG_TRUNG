@@ -14,7 +14,7 @@ Reinforcement Learning**. Mỗi bài thực hành nằm trong một thư mục r
 ## Danh sách bài thực hành
 
 - [Lab01 - Làm quen với Gymnasium](./Lab01/) — 36 bài, hoàn thành
-- Lab02 - Chưa nộp
+- [Lab02 - MDP và Dynamic Programming](./Lab02/) — 36 bài, hoàn thành
 - Lab03 - Chưa nộp
 
 ## Môi trường
@@ -30,9 +30,10 @@ python -m venv .venv
 # Linux/macOS
 source .venv/bin/activate
 
-cd Lab01
+cd Lab01                       # hoac cd Lab02
 pip install -r requirements.txt
 python src/main.py
 ```
 
-Chi tiết cách chạy từng bài: xem [Lab01/README.md](./Lab01/README.md).
+Chi tiết cách chạy từng bài: xem [Lab01/README.md](./Lab01/README.md) và
+[Lab02/README.md](./Lab02/README.md).
