@@ -6,7 +6,7 @@
 - MSSV: 22011211
 - Lớp: K16_AI&RB
 - GitHub username: Qwup2112
-- Repository: <https://github.com/Qwup2112/RL_-22011211-_-NGUYEN_QUANG_TRUNG->
+- Repository: <https://github.com/Qwup2112/RL_22011211_NGUYEN_QUANG_TRUNG>
 
 Phiên bản đang dùng: Python 3.14.4 · Gymnasium 1.3.0 · NumPy 2.5.2 · Matplotlib 3.11.1
 

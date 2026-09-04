@@ -8,7 +8,7 @@ Lớp: K16_AI&RB
 
 GitHub username: Qwup2112
 
-Repository URL: <https://github.com/Qwup2112/RL_-22011211-_-NGUYEN_QUANG_TRUNG->
+Repository URL: <https://github.com/Qwup2112/RL_22011211_NGUYEN_QUANG_TRUNG>
 
 Python version: 3.14.4
 
